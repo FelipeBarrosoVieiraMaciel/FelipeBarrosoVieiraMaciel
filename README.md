@@ -18,7 +18,7 @@
 
 ---
 
-Meu nome é **Felipe**, sou estudante de **Ciência da Computação** na **Universidade de Fortaleza** (Unifor). Tenho interesse em **Desenvolvimento Web**, **Ciência de Dados**, **Pesquisa Operacional**, **Otimização Combinatória** e **Pesquisa Científica**. Atualmente faço parte do Núcleo de Extensão e Práticas da Unifor (NEP) como autor de artigos científicos e desenvolvedor da plataforma do Núcleo. Possuo projetos na área de **Ciência de Dados** e **Otimização** com **Python** e suas bibliotecas (Pandas, Matplotlib, Gurobipy). Gosto bastante de **aprender** e também de **ensinar**, tendo experiência como **monitor institucional** de **Modelagem de problemas com Matemática** (Cálculo).
+Meu nome é **Felipe**, sou estudante de **Ciência da Computação** na **Universidade de Fortaleza** (Unifor). Tenho interesse em **Análise de Dados**, **Pesquisa Operacional** e **Pesquisa Científica**. Atualmente fazendo pesquisa para escrita de artigos científicos. Possuo projetos na área de **Ciência de Dados** e **Otimização** com **Python** e suas bibliotecas (Pandas, Matplotlib, Gurobipy). Gosto bastante de **aprender** e também de **ensinar**, tendo experiência como **monitor institucional** de **Modelagem de problemas com Matemática** (Cálculo).
 
   
   ##
